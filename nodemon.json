@@ -1,0 +1,10 @@
+{
+    "ignore": [
+        "bin/*",
+        "obj/*",
+        "csharp.csproj",
+        "nodemon.json"
+    ],
+    "exec": "clear && node . School School",
+    "ext": "*.*"
+}
